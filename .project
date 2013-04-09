@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>HelloEGG2</name>
+  <comment/>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>com.adobe.flexbuilder.project.flexbuilder</name>
+      <arguments/>
+    </buildCommand>
+    <buildCommand>
+      <name>com.adobe.flexbuilder.project.apollobuilder</name>
+      <arguments/>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>com.adobe.flexbuilder.project.apollonature</nature>
+    <nature>com.adobe.flexbuilder.project.flexnature</nature>
+    <nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+  </natures>
+  <linkedResources/>
+</projectDescription>
